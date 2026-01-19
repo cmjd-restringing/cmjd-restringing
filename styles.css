@@ -73,4 +73,14 @@ h2 {
 font-size: 1.3rem;
 }
 }
+.site-logo {
+display: block;
+max-width: 160px;
+margin: 0 auto 20px;
+}
 
+@media (max-width: 768px) {
+.site-logo {
+max-width: 120px;
+}
+}
