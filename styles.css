@@ -84,3 +84,9 @@ margin: 0 auto 20px;
 max-width: 120px;
 }
 }
+.site-logo {
+max-width: 140px;
+margin: 0 auto 20px;
+display: block;
+opacity: 0.95;
+}
