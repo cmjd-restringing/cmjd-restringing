@@ -90,3 +90,15 @@ margin: 0 auto 20px;
 display: block;
 opacity: 0.95;
 }
+.logo-bar {
+padding: 16px 20px;
+text-align: center;
+background: #0b0b0b;
+}
+
+.logo-bar img {
+max-width: 160px;
+width: 100%;
+height: auto;
+opacity: 0.9;
+}
