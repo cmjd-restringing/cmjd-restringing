@@ -100,3 +100,15 @@ max-width: 100px;
 margin-bottom: 16px;
 }
 }
+.footer-logo {
+max-width: 90px;
+margin: 0 auto 12px;
+display: block;
+opacity: 0.6;
+}
+
+@media (max-width: 768px) {
+.footer-logo {
+max-width: 70px;
+}
+}
